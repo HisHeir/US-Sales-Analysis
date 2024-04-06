@@ -9,6 +9,9 @@
 ## Project Overview
 The project analyses the US sales to obtain insight into the best population and socio-economic status of buyers and helps the company to double down efforts in advertizing to the right audience.
 
+![US sales Dashboard](https://github.com/HisHeir/Project/assets/165808027/53a43834-b8e9-45a8-a445-2d4008387ee5)
+
+
 ## Data Sources
 
 US Sales Data: The primary data used for the analysis is the 'SalesData.csv' file, containing detailed information about each sale made by the company
